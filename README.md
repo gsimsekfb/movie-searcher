@@ -23,9 +23,7 @@ Educational, simple project for searching movies from local files inside repo (/
     
     
 #### Note/References:  
-- This project is slightly modified, refactored and ES6 version of https://github.com/bradtraversy/bookmarker.
-- Learn JavaScript By Building A Bookmarker Application: 
-  https://www.youtube.com/watch?v=DIVfDZZeGxM
+- This project is slightly modified, refactored and ES6 version of https://www.youtube.com/watch?v=6fqwWwHwC6U.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
